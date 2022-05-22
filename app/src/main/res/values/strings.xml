@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FITO</string>
+    <string name="slogan">Развитие неизбежно!</string>
+    <string name="day">День:</string>
+    <string name="exercise">Упражнений:</string>
+    <string name="waiting_message">Начало упражнений через:</string>
+    <string name="start">Начать</string>
+    <string name="next">Следующие упражнение</string>
+    <string name="textview1">TextView</string>
+    <string name="x30">x30</string>
+    <string name="image_1">TODO</string>
+    <string name="textview2">TextView</string>
+    <string name="_00_30">00:30</string>
+    <string name="todo1">TODO</string>
+    <string name="fito">FITO</string>
+    <string name="todo3">TODO</string>
+    <string name="textview4">TextView</string>
+    <string name="textview6">TextView</string>
+    <string name="_00_10">00:10</string>
+    <string name="todo7">TODO</string>
+</resources>
